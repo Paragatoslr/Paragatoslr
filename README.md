@@ -7,8 +7,8 @@
 </div> 
 
 <!-- readme-typing-svg.herokuapp.com -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Frontend+and+Backend+Developer;UI%2FUX+and+Graphic+Designer)](https://git.io/typing-svg)
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fron-End+and+UI%2FUX+Developer;Graphic+Designer;Batman)](https://git.io/typing-svg)
+
 Hello, my name is Leo Paragatos and I am a bachelor's degree holder from [National University](https://national-u.edu.ph/) the program I take is B.S Information and Technology spcialize in Multimedia Arts and Animation. I am a full-stack software developer from Philippines with a proven ability to deliver high-quality solutions. Currently looking for job.
 
 > Programming, Markup Languages and Frameworks
