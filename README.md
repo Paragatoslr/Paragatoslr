@@ -34,20 +34,14 @@ Hello, my name is Leo Paragatos and I am a bachelor's degree holder from [Nation
   </p>
 </div>
 
-<details open>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paragatoslr&layout=compact&card_width=1000&card_height=200)](https://github.com/Paragatoslr/github-readme-stats)
+
+<details>
 <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Input%20Numbers.png" alt="Input Numbers" width="16" height="16" /> <b>GitHub Stats</b></summary>
-  
+
 <!-- Github Stats and streak Card -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paragatoslr&theme=flag-india&show_icons=true)
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paragatoslr&theme=flag-india&card_width=1000&card_height=200&show_icons=true) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Paragatoslr&theme=flag-india&card_width=1000&card_height=200" )](https://git.io/streak-stats)
-  
-
-<div align="center"  width="100%">
-</div>
-
-
-
 
 <!-- Github activity Card -->
 <a href="#hi-im-leo-paragatos">
