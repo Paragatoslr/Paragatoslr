@@ -39,7 +39,8 @@ Hello, my name is Leo Paragatos and I am a bachelor's degree holder from [Nation
   
 <!-- Github Stats and streak Card -->
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paragatoslr&theme=flag-india&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Paragatoslr&theme=flag-india&card_width=400)](https://git.io/streak-stats)
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Paragatoslr&theme=flag-india&card_width=1500)](https://git.io/streak-stats)
   
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Paragatoslr&theme=flag-india)](https://git.io/streak-stats)
