@@ -1,5 +1,11 @@
 # Hi, I'm Leo Paragatos <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" height="24" />
 
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdwN3picmFoNzl3YjJueDBjdXFwaHVvNWN5Yzk1Y2IzdTBtN2ljYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="200"/>
+   
+</div> 
+
 <!-- readme-typing-svg.herokuapp.com -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Frontend+and+Backend+Developer;UI%2FUX+and+Graphic+Designer)](https://git.io/typing-svg)
 <br/>
@@ -25,14 +31,20 @@ Hello, my name is Leo Paragatos and I am a bachelor's degree holder from [Nation
       <a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"></a>
       <a href="https://vuejs.org/"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white"></a>
       <a href="https://www.json.org/"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white"></a>
-
-
-
-     
   </p>
-
 </div>
 
-<!-- Github Stats Card -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paragatoslr)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+    <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Input%20Numbers.png" alt="Input Numbers" width="16" height="16" /> <b>GitHub Stats</b></summary>
+   
+<!-- Github Stats and streak Card -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paragatoslr&theme=flag-india&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Paragatoslr&theme=flag-india)](https://git.io/streak-stats)
+
+<!-- Github activity Card -->
+<a href="#hi-im-leo-paragatos">
+<img alt="Leo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Paragatoslr&bg_color=ffffff&color=ffa140&line=c4c88d&point=dfa141&hide_border=true&width=860&radius=8&theme=github-compact&area_color=ffe9d2&area=true&height=300&custom_title=My%20Contribution%20Graph" align="center" width="100%" />
+</a>
+</details>
+
 
