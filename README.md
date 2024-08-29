@@ -3,11 +3,15 @@
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdwN3picmFoNzl3YjJueDBjdXFwaHVvNWN5Yzk1Y2IzdTBtN2ljYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="200"/>
-   
-</div> 
+</div>
+
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Paragatoslr&style=flat-square&color=blue" alt="Profile View Count"/>
+</div>
 
 <!-- readme-typing-svg.herokuapp.com -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fron-End+and+UI%2FUX+Developer;Graphic+Designer;Batman)](https://git.io/typing-svg)
+
 
 Hello, my name is Leo Paragatos and I am a bachelor's degree holder from [National University](https://national-u.edu.ph/) the program I take is B.S Information and Technology spcialize in Multimedia Arts and Animation. I am a full-stack software developer from Philippines with a proven ability to deliver high-quality solutions. Currently looking for job.
 
